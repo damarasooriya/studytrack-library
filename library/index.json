@@ -29,6 +29,12 @@
       "emoji": "⚗️",
       "lessonCount": 14,
       "file": "SL-AL-Chemistry.json"
+    },
+    {
+      "name": "Physics",
+      "emoji": "🌏",
+      "lessonCount": 11,
+      "file": "SL-AL-Physics.json"
     }
   ]
 }
