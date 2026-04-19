@@ -11,6 +11,12 @@
       "emoji": "🔭",
       "lessonCount": 17,
       "file": "SL-AL-ET.json"
+    },
+    {
+      "name": "Information and Communication Technology (ICT)",
+      "emoji": "💻",
+      "lessonCount": 21,
+      "file": "SL-AL-ICT.json"
     }
   ]
 }
