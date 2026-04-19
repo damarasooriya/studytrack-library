@@ -1,0 +1,139 @@
+{
+  "version": 2,
+  "exported": "2026-04-19T12:28:48.139Z",
+  "subjects": [
+    {
+      "id": "mo5qo2fhvk5n",
+      "name": "Chemistry",
+      "emoji": "⚗️",
+      "lessons": [
+        {
+          "id": "mo5qo9r01746",
+          "name": "Atomic structure",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qofl3x30a",
+          "name": "Structure and bonding",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qol5wmo5m",
+          "name": "Chemical calculations",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qoqryjyhk",
+          "name": "Gaseous state of matter",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qowq2x942",
+          "name": "Energetics",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qp8tjlbm6",
+          "name": "Chemistry of s, p, and d block elements",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qpecb56xy",
+          "name": "Basic concepts of organic chemistry",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qpp5khgef",
+          "name": "Hydrocarbons and Halohydrocarbons",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qq8mrcr4f",
+          "name": "Oxygen-containing organic compounds",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qqemps5ct",
+          "name": "Nitrogen-containing organic compounds",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qqk0ovy5h",
+          "name": "Chemical kinetics",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qqoqalsyn",
+          "name": "Equilibrium",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qqufhngd8",
+          "name": "Electrochemistry",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5qr9pmkgkk",
+          "name": "Industrial chemistry and environmental pollution",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        }
+      ]
+    }
+  ]
+}
