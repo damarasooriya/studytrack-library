@@ -5,6 +5,12 @@
       "emoji": "📐",
       "lessonCount": 23,
       "file": "SL-AL-SFT.json"
+    },
+    {
+      "name": "Engineering Technology (ET)",
+      "emoji": "🔭",
+      "lessonCount": 17,
+      "file": "SL-AL-ET.json"
     }
   ]
 }
