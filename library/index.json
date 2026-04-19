@@ -15,8 +15,20 @@
     {
       "name": "Information and Communication Technology (ICT)",
       "emoji": "💻",
-      "lessonCount": 21,
+      "lessonCount": 13,
       "file": "SL-AL-ICT.json"
+    },
+    {
+      "name": "Biology",
+      "emoji": "🧬",
+      "lessonCount": 10,
+      "file": "SL-AL-Biology.json"
+    },
+    {
+      "name": "Chemistry",
+      "emoji": "⚗️",
+      "lessonCount": 14,
+      "file": "SL-AL-Chemistry.json"
     }
   ]
 }
