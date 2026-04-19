@@ -1,0 +1,220 @@
+{
+  "version": 2,
+  "exported": "2026-04-19T12:17:16.390Z",
+  "subjects": [
+    {
+      "id": "mnysrypspikm",
+      "name": "SFT",
+      "emoji": "📐",
+      "lessons": [
+        {
+          "id": "mnysw165o6z5",
+          "name": "සෛල සංවිධානයක් සහිත ජීවීන්",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": 1776601019015
+        },
+        {
+          "id": "mnysy51kn4kl",
+          "name": "භ්‍රමණ චලිතය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": 1776197867336
+        },
+        {
+          "id": "mnysz6pi7czh",
+          "name": "චාලක රසායනය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnysztmipufu",
+          "name": "තාප රසායනය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyt0guid1lv",
+          "name": "තාපය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyt3zt7qfjs",
+          "name": "පදාර්ථයේ යාන්ත්‍රික ගුණ",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyt4vipji5c",
+          "name": "පයිතගරස් සම්බන්දය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyt5vv6bfuk",
+          "name": "ත්‍රිකෝණමිතිය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyt7i3ktlt4",
+          "name": "බලය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyta3ldzi25",
+          "name": "මූලික ගණිතය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytll0tzefu",
+          "name": "වර්ගඵලය හා පරිමාව",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytm47x03kn",
+          "name": "ඛංඩාංක තල",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytnffp6csv",
+          "name": "සංඛ්යාතය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytnz8o3ew9",
+          "name": "ජෛවාණු",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytob94cgb6",
+          "name": "බහුඅවයවික",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytp85b0e30",
+          "name": "රසායනික කර්මාන්ත",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytq0up1ylo",
+          "name": "ස්වභාවික නිශ්පාදන",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytqk4n0egt",
+          "name": "තාක්ශනික දියුණව හා පරසරික සමතුලිතතාව",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytqyc8nitw",
+          "name": "මිනුම් උපකරණ",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyts3lf8gvq",
+          "name": "කාර්යය ශක්තිය හා ක්ෂමතාව",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytsigx3z09",
+          "name": "විද්‍යුතය හා චුම්භකත්වය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytsqxq2orf",
+          "name": "ප්‍රත්‍යස්තතාව",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytsvoh3xfj",
+          "name": "තරල",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        }
+      ]
+    }
+  ]
+}
