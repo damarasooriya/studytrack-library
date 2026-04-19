@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "exported": "2026-04-19T12:36:52.758Z",
+  "subjects": [
+    {
+      "id": "mo5r04kmvciq",
+      "name": "Physics",
+      "emoji": "🌏",
+      "lessons": [
+        {
+          "id": "mo5r0corbkzm",
+          "name": "Measurement",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r0hwhrq2j",
+          "name": "Mechanics",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r0p907cbf",
+          "name": "Oscillations & Waves",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r0y9y95t2",
+          "name": "Thermal physics",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r1j3qmllk",
+          "name": "Gravitational field",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r1rxul85n",
+          "name": "Electrostatic field",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r1zrvqifp",
+          "name": "Current electricity",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r26bp0knq",
+          "name": "Magnetic field",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r2bhd3prm",
+          "name": "Electronics",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r2lnz8cen",
+          "name": "Mechanical properties of matter",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5r2w4cl4e5",
+          "name": "Mechanical properties of matter",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        }
+      ]
+    }
+  ]
+}
