@@ -1,0 +1,103 @@
+{
+  "version": 2,
+  "exported": "2026-04-16T05:52:29.274Z",
+  "subjects": [
+    {
+      "id": "mo104idjxnis",
+      "name": "BIOLOGY",
+      "emoji": "🧬",
+      "lessons": [
+        {
+          "id": "mo106y7l9l1l",
+          "name": "Introduction to biology",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo107phlfjto",
+          "name": "Chemical and cellular basis of life",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo108bkl8xb4",
+          "name": "Evolution and diversity of organisms",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo108uickxc1",
+          "name": "Plant form and function",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo1097vd7nm8",
+          "name": "Animal form and function",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo109tucafvs",
+          "name": "Genetics",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo10atr6nrxr",
+          "name": "Molecular biology and recombinant DNA technology",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo10bbiays5f",
+          "name": "Environmental biology",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo10bofgf4zt",
+          "name": "Microbiology",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo10c0fp11d6",
+          "name": "Applied biology",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        }
+      ]
+    }
+  ]
+}
