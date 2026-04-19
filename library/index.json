@@ -1,3 +1,10 @@
 {
-  "subjects": []
+  "subjects": [
+    {
+      "name": "Science For Technology",
+      "emoji": "📐",
+      "lessonCount": 23,
+      "file": "SFT.json"
+    }
+  ]
 }
