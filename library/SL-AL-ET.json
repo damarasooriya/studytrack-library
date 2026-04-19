@@ -1,0 +1,166 @@
+{
+  "version": 2,
+  "exported": "2026-04-19T12:00:41.065Z",
+  "subjects": [
+    {
+      "id": "mnytu0a1bv5r",
+      "name": "ET",
+      "emoji": "🔭",
+      "lessons": [
+        {
+          "id": "mnytumtyv9jp",
+          "name": "මූලික ගොඩනැගිලි තාක්ශණවේදය (Civil)",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytw4uxgttc",
+          "name": "ගෘහස්ථ ජල සම්පාදනය හා කසල කළමණාකරණය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytwdn35sky",
+          "name": "බිම් මැනුම",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytwyzl2f4a",
+          "name": "ප්‍රමාණ බිල්පත්",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytxqhpqjn1",
+          "name": "මූලික ස්වයංචලන තාක්ශණවේදය (Automobile)",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytyi41sgpj",
+          "name": "එකලස්කිරීමේ තාක්ශණය (Production)",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytyt9v7uuy",
+          "name": "තරල යාන්ත්‍ර විද්‍යාව",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytzhau6p5x",
+          "name": "ජව සම්ප්‍රේශණ පද්ධති",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytzyfjymvw",
+          "name": "මූලික විදුලි තාක්ශණවේදය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyu0eln1qtm",
+          "name": "විදුලි යන්ත්‍ර හා බල පද්ධති",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyu0zpricfu",
+          "name": "මූලික ඉලෙක්ට්‍රොනික තාක්ශණවේදය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyu1osh89d4",
+          "name": "ඉංජිනේරු තාක්ශණවේදය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyu23xd35z1",
+          "name": "සෞඛ්‍ය හා ආරක්ශාව",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyu2e2zxypd",
+          "name": "ප්‍රමිති හා පිරිවිතර",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyu2n56pu3w",
+          "name": "ඒකක හා මිනුම්",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnyu2xy34i62",
+          "name": "ඉංජිනේරු ඇදීම",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": 1776197876190
+        },
+        {
+          "id": "mnyu3m9mqkdg",
+          "name": "ව්‍යවසායකත්වය හා කළමණාකරණය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        }
+      ]
+    }
+  ]
+}
