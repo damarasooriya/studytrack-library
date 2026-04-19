@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "exported": "2026-04-19T12:14:12.236Z",
+  "subjects": [
+    {
+      "id": "mo5q2nw5gqwx",
+      "name": "ICT",
+      "emoji": "💻",
+      "lessons": [
+        {
+          "id": "mo5q4p4vd36i",
+          "name": "Evolution of computing",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q4wi6pumk",
+          "name": "Computer hardware",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q52gma3a8",
+          "name": "Computer software",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q5k19n0ez",
+          "name": "Number systems",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q5qji8wvb",
+          "name": "Logic gates",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q5yf7j1xt",
+          "name": "Computer architecture",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q6fm3khi3",
+          "name": "Operating systems",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q74kpfcuk",
+          "name": "Networking",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q7ktsf92d",
+          "name": "System Development Life Cycle",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q7scit1ck",
+          "name": "Database",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q83r3bhry",
+          "name": "Programming",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q8al57tgv",
+          "name": "Web development",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mo5q8n04hgu5",
+          "name": "IoT Applications & Future Trends",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        }
+      ]
+    }
+  ]
+}
