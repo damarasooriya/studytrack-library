@@ -31,10 +31,23 @@
       "file": "SL-AL-Chemistry.json"
     },
     {
-      "name": "Physics",
+      "name": "Chemistry Sinhala Medium",
+      "emoji": "⚗️",
+      "lessonCount": 14,
+      "file": "SL-AL-Sin-Chemistry.json"
+    },
+    {
+      "name": "Physics English Medium",
       "emoji": "🌏",
       "lessonCount": 11,
       "file": "SL-AL-Physics.json"
+    },
+    {
+      "name": "Physics Sinhala Medium",
+      "emoji": "🌏",
+      "lessonCount": 11,
+      "file": "SL-AL-Sin-Physics.json"
     }
+    
   ]
 }
