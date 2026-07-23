@@ -1,15 +1,11 @@
-{
-  "version": 2,
-  "exported": "2026-04-19T12:00:41.065Z",
-  "subjects": [
-    {
+ {
       "id": "mnytu0a1bv5r",
       "name": "ET",
       "emoji": "🔭",
       "lessons": [
         {
           "id": "mnytumtyv9jp",
-          "name": "මූලික ගොඩනැගිලි තාක්ශණවේදය (Civil)",
+          "name": "ඉදිකිරිම් තාක්ෂණවේදය (BUILDING CONSTRUCTION)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -36,7 +32,7 @@
         },
         {
           "id": "mnytwyzl2f4a",
-          "name": "ප්‍රමාණ බිල්පත්",
+          "name": "ප්‍රමාණ පත්‍ර සහ සමීක්ෂණ (TDS)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -63,7 +59,7 @@
         },
         {
           "id": "mnytyt9v7uuy",
-          "name": "තරල යාන්ත්‍ර විද්‍යාව",
+          "name": "තරල යන්ත්‍ර (FLUID)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -72,7 +68,7 @@
         },
         {
           "id": "mnytzhau6p5x",
-          "name": "ජව සම්ප්‍රේශණ පද්ධති",
+          "name": "චලිතය සහ බල සම්ප්‍රේෂණ පද්දති (MOTION)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -81,7 +77,7 @@
         },
         {
           "id": "mnytzyfjymvw",
-          "name": "මූලික විදුලි තාක්ශණවේදය",
+          "name": "මූලික විදුලි තාක්ෂණවේදය (BASIC ELECTRICAL)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -99,7 +95,7 @@
         },
         {
           "id": "mnyu0zpricfu",
-          "name": "මූලික ඉලෙක්ට්‍රොනික තාක්ශණවේදය",
+          "name": "මූලික ඉලෙක්ට්‍රොනික තාක්ශණවේදය (ELECTRONIC)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -108,7 +104,7 @@
         },
         {
           "id": "mnyu1osh89d4",
-          "name": "ඉංජිනේරු තාක්ශණවේදය",
+          "name": "ඉංජිනේරු තාක්ෂණවේදය හැදින්වීම (ENGINEERING INTRODUCTION)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -117,7 +113,7 @@
         },
         {
           "id": "mnyu23xd35z1",
-          "name": "සෞඛ්‍ය හා ආරක්ශාව",
+          "name": "සෞඛ්‍ය හා ආරක්ශාව (ENGINEERING SAFETY)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -144,16 +140,16 @@
         },
         {
           "id": "mnyu2xy34i62",
-          "name": "ඉංජිනේරු ඇදීම",
+          "name": "ඉංජිනේරු ඇදීම (DRAWING)",
           "notes": "",
           "link": "",
           "status": "ns",
           "sections": [],
-          "lastStudied": 1776197876190
+          "lastStudied": null
         },
         {
           "id": "mnyu3m9mqkdg",
-          "name": "ව්‍යවසායකත්වය හා කළමණාකරණය",
+          "name": "ව්‍යවසායකත්වය හා කළමණාකරණය (ENTREPRENERSHIP)",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -162,5 +158,3 @@
         }
       ]
     }
-  ]
-}
