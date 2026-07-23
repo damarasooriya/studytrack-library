@@ -1,30 +1,12 @@
 {
-  "version": 2,
-  "exported": "2026-04-19T12:17:16.390Z",
+  "version": "3.0",
+  "exported": "2026-07-23T07:24:54.439Z",
   "subjects": [
     {
       "id": "mnysrypspikm",
       "name": "SFT",
       "emoji": "📐",
       "lessons": [
-        {
-          "id": "mnysw165o6z5",
-          "name": "සෛල සංවිධානයක් සහිත ජීවීන්",
-          "notes": "",
-          "link": "",
-          "status": "ns",
-          "sections": [],
-          "lastStudied": 1776601019015
-        },
-        {
-          "id": "mnysy51kn4kl",
-          "name": "භ්‍රමණ චලිතය",
-          "notes": "",
-          "link": "",
-          "status": "ns",
-          "sections": [],
-          "lastStudied": 1776197867336
-        },
         {
           "id": "mnysz6pi7czh",
           "name": "චාලක රසායනය",
@@ -44,26 +26,26 @@
           "lastStudied": null
         },
         {
+          "id": "mnysw165o6z5",
+          "name": "සෛල සංවිධානයක් සහිත ජීවීන්",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnysy51kn4kl",
+          "name": "භ්‍රමණ චලිතය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
           "id": "mnyt0guid1lv",
           "name": "තාපය",
-          "notes": "",
-          "link": "",
-          "status": "ns",
-          "sections": [],
-          "lastStudied": null
-        },
-        {
-          "id": "mnyt3zt7qfjs",
-          "name": "පදාර්ථයේ යාන්ත්‍රික ගුණ",
-          "notes": "",
-          "link": "",
-          "status": "ns",
-          "sections": [],
-          "lastStudied": null
-        },
-        {
-          "id": "mnyt4vipji5c",
-          "name": "පයිතගරස් සම්බන්දය",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -80,8 +62,8 @@
           "lastStudied": null
         },
         {
-          "id": "mnyt7i3ktlt4",
-          "name": "බලය",
+          "id": "mnyt3zt7qfjs",
+          "name": "පදාර්ථයේ යාන්ත්‍රික ගුණ",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -98,8 +80,8 @@
           "lastStudied": null
         },
         {
-          "id": "mnytll0tzefu",
-          "name": "වර්ගඵලය හා පරිමාව",
+          "id": "mnyt4vipji5c",
+          "name": "පයිතගරස් සම්බන්දය",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -108,7 +90,7 @@
         },
         {
           "id": "mnytm47x03kn",
-          "name": "ඛංඩාංක තල",
+          "name": "ඛංඩාංක ජ්‍යාමිතිය",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -116,8 +98,8 @@
           "lastStudied": null
         },
         {
-          "id": "mnytnffp6csv",
-          "name": "සංඛ්යාතය",
+          "id": "mnyt7i3ktlt4",
+          "name": "බලය",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -152,8 +134,8 @@
           "lastStudied": null
         },
         {
-          "id": "mnytq0up1ylo",
-          "name": "ස්වභාවික නිශ්පාදන",
+          "id": "mnytll0tzefu",
+          "name": "වර්ගඵලය හා පරිමාව",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -161,8 +143,8 @@
           "lastStudied": null
         },
         {
-          "id": "mnytqk4n0egt",
-          "name": "තාක්ශනික දියුණව හා පරසරික සමතුලිතතාව",
+          "id": "mnytnffp6csv",
+          "name": "සංඛ්‍යානය",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -197,8 +179,8 @@
           "lastStudied": null
         },
         {
-          "id": "mnytsqxq2orf",
-          "name": "ප්‍රත්‍යස්තතාව",
+          "id": "mnytsvoh3xfj",
+          "name": "තරල",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -206,8 +188,26 @@
           "lastStudied": null
         },
         {
-          "id": "mnytsvoh3xfj",
-          "name": "තරල",
+          "id": "mpfjmgau3unn",
+          "name": "යාන්ත්‍රික ශක්තිය",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytq0up1ylo",
+          "name": "ස්වභාවික නිශ්පාදන",
+          "notes": "",
+          "link": "",
+          "status": "ns",
+          "sections": [],
+          "lastStudied": null
+        },
+        {
+          "id": "mnytqk4n0egt",
+          "name": "තාක්ශනික දියුණව හා පරසරික සමතුලිතතාව",
           "notes": "",
           "link": "",
           "status": "ns",
@@ -216,5 +216,3 @@
         }
       ]
     }
-  ]
-}
